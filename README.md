@@ -58,11 +58,11 @@ docRef.onSnapshot(function(snap) {
 
 Using yarn:
 
-`yarn add useFire`
+`yarn add usefire`
 
 or NPM:
 
-`npm i useFire`
+`npm i usefire`
 
 # Usage
 
